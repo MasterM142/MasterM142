@@ -2,14 +2,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterM142&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterM142&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <a href="https://www.youtube.com/@masterm142" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/masterm142" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://imgs.search.brave.com/7vQNQXLy6-bKnwSeQc0J0_itPp518kRHWnuSn_35IHs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/SENuWURFbUxjR0VB/QUFBTS9zYW55bWFh/LWVkaXQuZ2lm.gif"  />
+<img align="right" height="200" src="https://imgs.search.brave.com/7vQNQXLy6-bKnwSeQc0J0_itPp518kRHWnuSn_35IHs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/SENuWURFbUxjR0VB/QUFBTS9zYW55bWFh/LWVkaXQuZ2lm.gif"  />
 
 ###
 
@@ -31,23 +35,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@masterm142" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/masterm142" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterM142&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterM142&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
+<img align="right" height="180" src="https://i.pinimg.com/736x/3d/18/ca/3d18ca6d4c5518cf65307e305724cf2a.jpg"  />
 
-<img src="https://raw.githubusercontent.com/MasterM142/MasterM142/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31jq7jq2zz2oyatzonpumosodmxi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jq7jq2zz2oyatzonpumosodmxi&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
