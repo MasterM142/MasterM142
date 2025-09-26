@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<h1 align="center">Fullstack Developer - over 6 years of experience</h1>
+<h1 align="center">Fullstack Developer</h1>
 
 ###
 
