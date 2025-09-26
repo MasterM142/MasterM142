@@ -38,6 +38,8 @@
   </a>
 </div>
 
+<h1 align="center">Fullstack Developer - over 6 years of experience</h1>
+
 ###
 
 <img align="right" height="290" src="https://media1.tenor.com/m/9WgadHIXHPUAAAAC/goth-girl-goth.gif"  />
