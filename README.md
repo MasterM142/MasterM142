@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="290" src="https://media1.tenor.com/m/9WgadHIXHPUAAAAC/goth-girl-goth.gif"  />
+<img align="right" height="290" src="[https://media1.tenor.com/m/9WgadHIXHPUAAAAC/goth-girl-goth.gif](https://i.pinimg.com/736x/ae/c0/44/aec044d0d5394b2895bcc23e77ec6b0b.jpg)"  />
 
 ###
 
