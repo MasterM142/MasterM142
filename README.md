@@ -30,12 +30,16 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/e9/01/66/e901667abb5c96e189eb2fce5dc0af66.jpg"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n1yshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n1yshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <a href="https://open.spotify.com/user/31jq7jq2zz2oyatzonpumosodmxi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jq7jq2zz2oyatzonpumosodmxi&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
